@@ -1,0 +1,12 @@
+# mac
+.DS_Store
+
+# eclipse
+.classpath
+.project
+.settings
+
+# general
+target
+classes
+class
